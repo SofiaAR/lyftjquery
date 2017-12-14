@@ -1,0 +1,30 @@
+.logo{
+	width:30%;
+
+}
+nav{
+	
+    background-color: transparent;
+}
+body{
+	background-image: url(../img/fondo.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: bottom;
+	height: 100vh;
+}
+
+.btn{
+	background-color: transparent;
+    border: 1px solid#ccc;
+    border-radius: 15%;
+    color: white;
+
+}
+
+section{
+	padding-bottom: 30%;
+}
+#splash{
+	width: 50%
+}
